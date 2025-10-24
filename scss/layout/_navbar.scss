@@ -1,0 +1,5 @@
+.navbar{position:sticky;top:0;z-index:1100;padding-block:clamp(.6rem,1.8vw,1rem);min-height:90px;overflow:visible;border-bottom:1px solid #e5e7eb;background:#fff;animation:drop-in .35s ease both}
+.navbar .navbar-brand{display:flex;gap:.6rem;align-items:center;font-weight:800;letter-spacing:.3px}
+.navbar .navbar-brand img{max-height:80px;width:auto;display:block}
+.navbar .nav-link{border-radius:.5rem}
+.navbar .nav-link.active,.navbar .nav-link[aria-current="page"]{background:#0d47a1;color:#fff!important}

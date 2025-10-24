@@ -1,0 +1,1 @@
+.home-services{display:grid;gap:1rem;grid-template-columns:1fr}@media(min-width:768px){.home-services{grid-template-columns:repeat(2,1fr)}}@media(min-width:1200px){.home-services{grid-template-columns:repeat(4,1fr)}} .home-services .card{height:100%}
